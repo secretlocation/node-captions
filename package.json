@@ -10,7 +10,6 @@
   "author": "Jason Rojas <jason@nothingbeatsaduck.com>",
   "license": "MIT",
   "dependencies": {
-    "iconv-lite": "^0.4.4",
     "moment": "^2.6.0"
   },
   "devDependencies": {
